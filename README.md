@@ -13,7 +13,9 @@ solutions/
   arm64-assembly/
   x86-64-assembly/
   csharp/
+  javascript/
   lua/
+  python/
   rust/
   wasm/
 ```
@@ -22,7 +24,9 @@ solutions/
 - `solutions/arm64-assembly`
 - `solutions/x86-64-assembly`
 - `solutions/csharp`
+- `solutions/javascript`
 - `solutions/lua`
+- `solutions/python`
 - `solutions/rust`
 - `solutions/wasm`
 
